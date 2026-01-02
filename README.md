@@ -7,16 +7,30 @@
 
 ## 🧰 Tech Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-0095D5)
-
-![MVVM](https://img.shields.io/badge/MVVM-000000)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/>
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" width="36" alt="Android"/>
+  <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Jetpack Compose"/>
+</p>
+<p>
+  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" width="36" alt="Kotlin Multiplatform"/>
+  <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Compose Multiplatform"/>
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Ktor"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2C2C2C"/>
+  <img src="https://img.shields.io/badge/StateFlow-7F52FF?logo=kotlin&logoColor=white"/>
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="36" alt="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma"/>
+</p>
 
 
 ## 💡 About Me
