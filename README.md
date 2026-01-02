@@ -13,15 +13,6 @@
 
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
-
-
-  <!-- Kotlin Multiplatform -->
-  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin-multiplatform/kotlin-multiplatform-icon.svg"
-       width="40" alt="Kotlin Multiplatform"/>
-
-  <!-- Compose Multiplatform (official) -->
-  <img src="https://raw.githubusercontent.com/compose-multiplatform/branding/main/ComposeMultiplatform/ComposeMultiplatform-Mark/ComposeMultiplatform-Mark-Main.svg"
-       width="40" alt="Compose Multiplatform"/>
        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/>
   <img src="https://developer.android.com/images/brand/Android_Robot.png" width="36" alt="Android"/>
