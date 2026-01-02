@@ -7,12 +7,17 @@
 
 ## 🧰 Tech Stack
 
-<p align="start">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="25" />
-  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="25" />
-  <img src="https://spring.io/img/spring.svg" alt="Spring (Boot)" width="25" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5)
+
+![MVVM](https://img.shields.io/badge/MVVM-000000)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C)
+
 
 ## 💡 About Me
 
