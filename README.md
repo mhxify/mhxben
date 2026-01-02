@@ -11,22 +11,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/>
   <img src="https://developer.android.com/images/brand/Android_Robot.png" width="36" alt="Android"/>
   <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Jetpack Compose"/>
-</p>
-<p>
   <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" width="36" alt="Kotlin Multiplatform"/>
   <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Compose Multiplatform"/>
-</p>
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Ktor"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/MVVM-000000?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-2C2C2C"/>
   <img src="https://img.shields.io/badge/StateFlow-7F52FF?logo=kotlin&logoColor=white"/>
-</p>
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="36" alt="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma"/>
