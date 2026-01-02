@@ -8,22 +8,22 @@
 ## 🧰 Tech Stack
 
 <p>
-    <!-- Kotlin -->
+  <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
 
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
 
-  <!-- Jetpack Compose (official SVG mirror) -->
-  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/jetpack-compose/jetpack-compose-icon.svg"
+  <!-- Jetpack Compose (official GitHub) -->
+  <img src="https://raw.githubusercontent.com/jetpack-compose/branding/main/JetpackCompose/JetpackCompose-Mark/Compose-Mark-Main.svg"
        width="40" alt="Jetpack Compose"/>
 
   <!-- Kotlin Multiplatform -->
   <img src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin-multiplatform/kotlin-multiplatform-icon.svg"
        width="40" alt="Kotlin Multiplatform"/>
 
-  <!-- Compose Multiplatform -->
-  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/compose-multiplatform/compose-multiplatform-icon.svg"
+  <!-- Compose Multiplatform (official) -->
+  <img src="https://raw.githubusercontent.com/compose-multiplatform/branding/main/ComposeMultiplatform/ComposeMultiplatform-Mark/ComposeMultiplatform-Mark-Main.svg"
        width="40" alt="Compose Multiplatform"/>
        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/>
