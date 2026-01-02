@@ -15,7 +15,7 @@
        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
-    <img src="https://raw.githubusercontent.com/ktorio/ktor-website/main/static/images/ktor_icon.svg" width="40" alt="Ktor"/>
+  <img src="https://techicons.dev/icon/ktor/svg" width="40" alt="Ktor"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="36" alt="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma"/>
