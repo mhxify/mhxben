@@ -14,9 +14,6 @@
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
 
-  <!-- Jetpack Compose (official GitHub) -->
-  <img src="https://raw.githubusercontent.com/jetpack-compose/branding/main/JetpackCompose/JetpackCompose-Mark/Compose-Mark-Main.svg"
-       width="40" alt="Jetpack Compose"/>
 
   <!-- Kotlin Multiplatform -->
   <img src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin-multiplatform/kotlin-multiplatform-icon.svg"
