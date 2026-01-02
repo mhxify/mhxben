@@ -8,6 +8,24 @@
 ## 🧰 Tech Stack
 
 <p>
+    <!-- Kotlin -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
+
+  <!-- Jetpack Compose (official SVG mirror) -->
+  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/jetpack-compose/jetpack-compose-icon.svg"
+       width="40" alt="Jetpack Compose"/>
+
+  <!-- Kotlin Multiplatform -->
+  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin-multiplatform/kotlin-multiplatform-icon.svg"
+       width="40" alt="Kotlin Multiplatform"/>
+
+  <!-- Compose Multiplatform -->
+  <img src="https://raw.githubusercontent.com/JetBrains/logos/master/compose-multiplatform/compose-multiplatform-icon.svg"
+       width="40" alt="Compose Multiplatform"/>
+       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/>
   <img src="https://developer.android.com/images/brand/Android_Robot.png" width="36" alt="Android"/>
   <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Jetpack Compose"/>
@@ -16,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Ktor"/>
-  <img src="https://img.shields.io/badge/StateFlow-7F52FF?logo=kotlin&logoColor=white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="36" alt="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma"/>
