@@ -14,8 +14,6 @@
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android"/>
        
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" width="36" alt="Android"/>
-  <img src="https://developer.android.com/images/brand/jetpack-compose-logo.png" width="36" alt="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" alt="Ktor"/>
